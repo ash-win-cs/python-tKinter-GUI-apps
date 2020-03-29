@@ -1,4 +1,4 @@
-#this program is to add to the window from default
+#this program is to add icon to the window from default
 #Entry widgets
 from tkinter import *
 

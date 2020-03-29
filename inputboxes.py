@@ -8,7 +8,7 @@ root.geometry("400x400")
 
 #create click function
 def clicked():
-    my_label2 = Label(root, text=e.get())
+    my_label2 = Label(root, text= "Hello " + e.get())
     my_label2.pack()
     
 
